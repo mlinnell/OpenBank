@@ -54,6 +54,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Entities\AccountType.cs" />
+    <Compile Include="Entities\Balance.cs" />
+    <Compile Include="Entities\Mappings.cs" />
+    <Compile Include="Entities\TransactionType.cs" />
+    <Compile Include="Entities\Statement.cs" />
+    <Compile Include="Entities\Transaction.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
